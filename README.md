@@ -7,7 +7,7 @@
 <p align="center">
   <a href="#rocket-about-the-challenge">About the Challenge</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#routes">Routes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#running-the-application">Running the Application</a>
+  <a href="#installation">Installation</a>
 </p>
 
 ## :rocket: About the Challenge
@@ -67,7 +67,7 @@ Application that stores incoming and outgoing financial transactions. It allows 
 
 Within **balance**, income is the sum of all transaction values ​​with `type` income. The outcome is the sum of all transaction values ​​with `type` outcome, and the total is the value of `income - outcome`.
 
-## Running the application
+## Installation
 
 1. Clone the repository: `git@github.com:matheus-neves/challenge-nodejs-fundamentals.git`
 2. Access the directory: `cd challenge-nodejs-fundamentals`
