@@ -73,7 +73,7 @@ Within **balance**, income is the sum of all transaction values ​​with `type
 2. Access the directory: `cd challenge-nodejs-fundamentals`
 3. Install the dependencies: `yarn`
 4. Run the server: `yarn dev:server`
-5. Server running in `http://localhost:3333`
+5. Server running in `http://localhost:3333/`
 
 
 ## :memo: License
@@ -81,4 +81,4 @@ Within **balance**, income is the sum of all transaction values ​​with `type
 This challenge is under license from MIT. See the archive [LICENSE](https://github.com/Rocketseat/bootcamp-gostack-desafios/blob/master/LICENSE) for more details.
 
 ---
-Challenge created with 💜by Rocketseat 👋 [Join the community!](https://discordapp.com/invite/gCRAFhc)
+Challenge completed ✔️by Matheus Neves and created with 💜by Rocketseat 👋 [Join the community!](https://discordapp.com/invite/gCRAFhc)
